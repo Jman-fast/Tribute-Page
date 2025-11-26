@@ -1,6 +1,6 @@
 # Tribute page for Dr. Homi J. Bhabha
 
-This is a personal project and my first attempt at first Web development.
+This is a personal project and my first attempt at Web development.
 
 It utilizes HTML, CSS, JavaScript, in three separate files. 
 
